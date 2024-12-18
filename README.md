@@ -3,7 +3,7 @@
 ## Prerequisites
 Make sure you have the following installed:
 
-- **Node.js** (v14 or higher)
+- **Node.js** (v18 or higher)
 - **npm** (Node Package Manager)
 - **ngrok** (for tunneling your localhost)
 
@@ -14,8 +14,8 @@ Follow these steps to set up the project:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <project-folder>
+   git clone https://github.com/DavidVique1998/speech-assistant-openai-twilio.git
+   cd https://github.com/DavidVique1998/speech-assistant-openai-twilio.git
    ```
 
 2. **Install Dependencies**:
